@@ -21,10 +21,18 @@
 title: FYT Digital
 subtitle: Your optimal design solution
 logo: logo.png
-email: fzr@upm.edu.my
-description: >- # this means to ignore newlines until "baseurl:"
-  
 banner: banner.png
+author: 
+  name: Fakhrul Zaman Rokhani, PhD
+  email: fzr@upm.edu.my
+description: >- # this means to ignore newlines until "baseurl:"
+  We are start-up from Universiti Putra Malaysia (UPM). We are team professionals
+  that understand the needs of development and production of the ultralow power
+  integrated circuit market segment. We have more than a decade of experience in
+  developing digital cell library IPs and front-end IC design.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "fyt-digital.github.io"
 url: "https://fyt-digital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,7 +44,7 @@ theme: minima
 
 minima:
   date_format: '%b %-d, %Y'
-  skin: dark-solarized
+  skin: solarized
 
 plugins:
    - jekyll-remote-theme

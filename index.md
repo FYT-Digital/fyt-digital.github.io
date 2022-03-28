@@ -1,6 +1,6 @@
 ---
-layout: home
-title: home
+layout: default
+title: Home
 ---
 
 # Welcome to FYT Digital !!!
