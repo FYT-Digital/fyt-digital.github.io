@@ -22,9 +22,9 @@ title: FYT Digital
 author: Contact Details
 email: fzr@upm.edu.my
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Ahmad Tarmezee Talibi \n 
-  Lim Yang Wei \n
+description: > # this means to ignore newlines until "baseurl:"
+  Ahmad Tarmezee Talib 
+  Lim Yang Wei
   Fakhrul Zaman Rokhani
 
 show_excerpts: false # set to true to show excerpts on the homepage
