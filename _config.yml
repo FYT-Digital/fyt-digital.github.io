@@ -22,14 +22,14 @@ title: FYT Digital
 author: Contact Details
 email: fzr@upm.edu.my
 
-description: |+
+description: >-
   Ahmad Tarmezee Talib
   Lim Yang Wei
   Fakhrul Zaman Rokhani
 
-show_excerpts: false # set to true to show excerpts on the homepage
+#show_excerpts: false # set to true to show excerpts on the homepage
 
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 domain: "fyt-digital.github.io"
 url: "https://fyt-digital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fyt_digital
@@ -37,10 +37,6 @@ url: "https://fyt-digital.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 theme: minima
-
-minima:
-  date_format: '%b %-d, %Y'
-  skin: solarized
 
 plugins:
 #  - jekyll-remote-theme
