@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Contact Us
+title: FYT Digital
 email: fzr@upm.edu.my
 description: >- # this means to ignore newlines until "baseurl:"
   Your optimal design solution
@@ -29,8 +29,9 @@ url: "https://fyt-digital.github.io" # the base hostname & protocol for your sit
 #github_username:  FYT-Digital
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
+   - jekyll-remote-theme
 #  - jekyll-feed
 
 # Exclude from processing.
