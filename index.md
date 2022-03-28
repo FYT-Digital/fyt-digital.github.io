@@ -5,7 +5,6 @@ title: Home
 
 # WHO ARE WE?
 We are start-up from Universiti Putra Malaysia (UPM). We are team professionals that understand 
-
 the needs of development and production of the ultralow power integrated circuit market segment. 
 
 # OUR SOLUTIONS
