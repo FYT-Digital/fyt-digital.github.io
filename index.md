@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 # WHO ARE WE?
@@ -10,7 +9,6 @@ the needs of development and production of the ultralow power integrated circuit
 
 # OUR SOLUTIONS
 
-## Digital Cell Library as a Service (DiCLaaS)
-### for System-on-Chip
+## Digital Cell Library as a Service (DiCLaaS) for SoC Design
 1. 16 custom-designed ultralow power Digital Cell Library IPs that cover wide-range power-performance requirements.
 2. AI-powered digital library recommender for library evaluation that can reduce the library evaluation time from months to merely seconds.
