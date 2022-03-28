@@ -21,7 +21,7 @@
 title: FYT Digital
 email: fzr@upm.edu.my
 description: >- # this means to ignore newlines until "baseurl:"
-  Your optimal design solution
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "fyt-digital.github.io"
 url: "https://fyt-digital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,9 +29,15 @@ url: "https://fyt-digital.github.io" # the base hostname & protocol for your sit
 #github_username:  FYT-Digital
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
+
+minima:
+  date_format: '%b %-d, %Y'
+  skin: dark-solarized
+
 plugins:
    - jekyll-remote-theme
+   - jekyll-remote-include
 #  - jekyll-feed
 
 # Exclude from processing.
