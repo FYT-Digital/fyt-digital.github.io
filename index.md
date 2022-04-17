@@ -21,3 +21,9 @@ This will facilitate microchip designers to reduce time to design chips by 300X 
 # CURRENT STATUS
 Currently, we are in the process of market validation.
 We are looking for a strategic relationship with potential clients from fabless design houses and foundries and funding from VCs or government agencies to facilitate us scaling up our solutions.
+
+# TEAM MEMBERS
+Ahmad Tarmezee Talib, CEO
+Lim Yang Wei, CTO
+Fakhrul Zaman Rokhani, CSO
+
