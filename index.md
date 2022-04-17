@@ -12,8 +12,11 @@ We have over a decade of experience developing digital cell library IPs and fron
 # OUR SOLUTIONS
 
 ## Digital Cell Library as a Service (DiCLaaS) for SoC Design
-1. 16 custom-designed ultralow power Digital Cell Library IPs that cover wide-range power-performance requirements.
-2. AI-powered digital library recommender for library evaluation that can reduce the library evaluation time from months to merely seconds.
+We recognized a need to prolong the usage of electronic devices like wearables and IoT devices. 
+We are developing a collection of ultra-low power digital cell libraries for microchip design, and we believe that this will increase battery lifetime by 2X and reduce electricity cost by 10X.
+
+On top of this, we are developing a library recommendation tool to help chip architects to evaluate suitable cell libraries during the chip design process. 
+This will facilitate microchip designers to reduce time to design chips by 300X and roll out products faster.
 
 # CURRENT STATUS
 Currently, we are in the process of market validation.
