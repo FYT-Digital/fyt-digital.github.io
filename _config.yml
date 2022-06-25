@@ -33,7 +33,8 @@ url: "https://fyt-digital.github.io" # the base hostname & protocol for your sit
 #github_username:  FYT-Digital
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
 
 plugins:
 #  - jekyll-remote-theme
