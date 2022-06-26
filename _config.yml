@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: FYT Digital
-author: Contact Details
+
 email: fzr/at/upm.edu.my
 
 description:
@@ -28,35 +28,13 @@ description:
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 domain: "fyt-digital.github.io"
-url: "https://fyt-digital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fyt-digital.github.io"
+
 #twitter_username: fyt_digital
 #github_username:  FYT-Digital
 
 # Build settings
-theme: minima
-#theme: minimal-mistakes-jekyll
-
 plugins:
 #  - jekyll-remote-theme
 #  - jekyll-remote-include
-#  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-feed
